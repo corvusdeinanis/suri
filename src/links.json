@@ -1,5 +1,8 @@
 {
   "/": "https://github.com/corvusdeinanis",
   "web": "https://astroslair.xyz",
-  "gh": "corvusdeinanis.github.io"
+  "gp": "https://corvusdeinanis.github.io"
+  "source": "https://github.com/jstayton/suri"
+  "list": "https://raw.githubusercontent.com/corvusdeinanis/suri/master/src/links.json"
+  
 }
